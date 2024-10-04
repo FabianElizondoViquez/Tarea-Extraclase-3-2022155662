@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tarea-Extraclase-3-2022155662/1.0.0": {
+        "runtime": {
+          "Tarea-Extraclase-3-2022155662.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea-Extraclase-3-2022155662/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
